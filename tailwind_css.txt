@@ -14,5 +14,11 @@ Tailwind CSS ----------------> An additional advantage for simplifying the verbo
                 eg:- mt-4, mx-4, pt-2, p-4
     ** For the alignment in clear,
         --> Use Flex justify-center items-center, these try to put the text aligned with the div in center.
-        
+    ** To get the text font size use, 
+        eg:- <text-[30px]> 
+    ** justify content is more used in the horizontal alignment for FlexBox.
+    ** align-items is used more in the vertical alignment for FlexBox.
+    ** Flex-flow is a combination of both flex-direction and flex-wrap.
+    
+
 
