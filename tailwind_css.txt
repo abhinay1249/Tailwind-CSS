@@ -1,0 +1,18 @@
+Tailwind CSS ----------------> An additional advantage for simplifying the verbose CSS.
+    
+    ** It does supports component libraries such as:-
+        --> tailwind UI
+        --> headess UI
+        --> sailboat UI
+        --> daisy UI
+        --> tailblocks
+        --> shadcn
+    ** These are the reusable codes that can be used again and again, whereas the general CSS cannot be reusable.
+    **  {t/b/l/r}-{<size>} this can be used for either margin alignment or padding.
+            {x} is used for both left and right at a time for x axis.
+            {y} is used for both top and bottom at a time for y axis.
+                eg:- mt-4, mx-4, pt-2, p-4
+    ** For the alignment in clear,
+        --> Use Flex justify-center items-center, these try to put the text aligned with the div in center.
+        
+
